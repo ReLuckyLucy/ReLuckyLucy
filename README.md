@@ -2,10 +2,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🏳️‍🌈- Country；China
+🏳️‍🌈- Country  China
 
-📖- Reading: 《El Amor En Los Tiempos Del Colera》
+📖- Reading  《El Amor En Los Tiempos Del Colera》
 
-💻- Game: Arknight or genshin impact
+💻- Game  Arknight or genshin impact
 
-☕- Learning： Python
+☕- Learning  Python
