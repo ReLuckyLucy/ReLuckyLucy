@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:
