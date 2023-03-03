@@ -11,7 +11,6 @@
 ☕- Learning  Python
 
 ![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.svg)
-![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.gif)
 
 18岁的路岔，身后托依着十四亿擘画，广众建广厦
 
@@ -24,5 +23,4 @@
 中国青年生长于斯，念兹在兹
 
                                                      ———写在前面
-![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.svg)
-![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.gif)
+
