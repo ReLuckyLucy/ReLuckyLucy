@@ -9,9 +9,7 @@
 💻- Game  原神
 
 ☕- Learning  Python
-
 ![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.svg)
-
 18岁的路岔，身后托依着十四亿擘画，广众建广厦
 
 18岁的仰望，心中炽热着五十六番滚烫，群族谱群唱
