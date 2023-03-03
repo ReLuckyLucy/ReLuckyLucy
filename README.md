@@ -21,3 +21,4 @@
 中国青年生长于斯，念兹在兹
 
                                                      ———写在前面
+![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.svg)
