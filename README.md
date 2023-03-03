@@ -22,3 +22,4 @@
 
                                                      ———写在前面
 ![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/ReLuckyLucy/ReLuckyLucy/main/assets/github-contribution-grid-snake.gif)
