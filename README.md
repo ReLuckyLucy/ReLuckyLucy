@@ -27,6 +27,7 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="unsloth" src="[https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white](https://raw.githubusercontent.com/unslothai/unsloth/main/images/made%20with%20unsloth.png)" />
 </p>
 
 
