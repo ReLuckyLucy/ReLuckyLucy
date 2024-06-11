@@ -1,6 +1,6 @@
 # Hi there ReLucy 🦄
 
-My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself
+My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 
 🏳️‍🌈- Country  中国
 
