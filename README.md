@@ -8,7 +8,7 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 
 ☕- Learning  Python AIGC
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=buefyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ReLuckyLucy">
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reluckylucy" />
