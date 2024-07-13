@@ -14,7 +14,7 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reluckylucy" />
 </a>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ReLuckyLucy&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ReLuckyLucy/Unsloth_Ollama))
 
 ### Language & Tools I often use with
 
