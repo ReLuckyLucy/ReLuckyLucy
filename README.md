@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hi there ReLucy 🦄
 
@@ -45,4 +44,3 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 >
 >———写在前面
 
-</div>
