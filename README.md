@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there ReLucy 🦄
 
 My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
@@ -13,8 +15,6 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 <a href="https://github.com/ReLuckyLucy">
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reluckylucy" />
 </a>
-
-
 
 ### Language & Tools I often use with
 
@@ -44,3 +44,5 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 >中国青年生长于斯，念兹在兹
 >
 >———写在前面
+
+</div>
