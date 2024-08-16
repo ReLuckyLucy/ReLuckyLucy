@@ -28,7 +28,7 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-![](./profile-3d-contrib/profile-green.svg)
+
 
 ### My most favorite quote is
 
