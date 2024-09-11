@@ -3,11 +3,11 @@
 
 My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 
-🏳️‍🌈- Country  中国
+🏳️‍🌈 - Country  中国
 
-📖- Reading  《霍乱时期的爱情》
+📖 - Reading  《霍乱时期的爱情》
 
-☕- Learning  Python AIGC
+☕ - Learning  Python AIGC
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=buefyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
