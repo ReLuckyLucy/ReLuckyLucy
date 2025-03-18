@@ -17,7 +17,7 @@ My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 
 🏳️‍🌈 - Country  中国
 
-📖 - Reading  《霍乱时期的爱情》
+📖 - Reading  《El Amor En Los Tiempos Del Colera》
 
 ☕ - Learning  Python AIGC
 
