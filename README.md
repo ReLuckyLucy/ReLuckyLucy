@@ -1,36 +1,16 @@
-<div align="center">
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm ReLucy</h1>
 
-# ReLucy 
-
->18岁的路岔，身后托依着十四亿擘画，广众建广厦
->
->18岁的仰望，心中炽热着五十六番滚烫，群族谱群唱
->
->18岁的稚气，梦中波澜着五千年的神秘，古国存古义
->
->18岁的单薄，脚下雄浑着九百六十万平方公里的巍峨，后土载厚德
->
->中国青年生长于斯，念兹在兹
->
->———写在前面
-</div>
-
-<br>
-
-## 关于我
-我是 ReLuckyLucy, 是一个热爱中文诗词的小小程序员，对深度学习，计算机视觉，多模态大模型感兴趣，喜欢精灵宝可梦
+## About Me
+I’m ReLuckyLucy, a novice programmer passionate about Chinese poetry. I’m enthusiastic about deep learning, computer vision, and multimodal large models, and a fan of Pokémon.
 
 ![这是图片](./bbg.gif )
+
+As a technology explorer with systems thinking and humanistic values, I firmly believe that 'the warmth in code stems from the creator's perspective.' While currently engaged in only a select few initiatives, I persistently strive to maintain ultimate accountability in my projects and cultivate a mindset of continuous evolution."
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=buefyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/ReLuckyLucy">
-  <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reluckylucy" />
-</a>
 
-
-![这是图片](./test.gif )
-
-### 擅长的语言与工具
+### Technology Stack
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff" />
@@ -43,5 +23,26 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+## Connect <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
+- WeChat Official: ReLucy
+- WeChat: reluckylucy
+- Email: lucy1257716130@outlook.com
+- Email2: 1257716130@qq.com
 
+<br>
+
+<div align="center">
+
+>18岁的路岔，身后托依着十四亿擘画，广众建广厦
+>
+>18岁的仰望，心中炽热着五十六番滚烫，群族谱群唱
+>
+>18岁的稚气，梦中波澜着五千年的神秘，古国存古义
+>
+>18岁的单薄，脚下雄浑着九百六十万平方公里的巍峨，后土载厚德
+>
+>中国青年生长于斯，念兹在兹
+>
+>———写在后面
+</div>
