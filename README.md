@@ -3,7 +3,7 @@
 ## About Me
 I’m ReLuckyLucy, a novice programmer passionate about Chinese poetry. I’m enthusiastic about deep learning, computer vision, and multimodal large models, and a fan of Pokémon.
 
-![这是可爱波加曼](img\bbg.gif )
+![这是可爱波加曼](.\img\bbg.gif )
 
 As a technology explorer with systems thinking and humanistic values, I firmly believe that 'the warmth in code stems from the creator's perspective.' While currently engaged in only a select few initiatives, I persistently strive to maintain ultimate accountability in my projects and cultivate a mindset of continuous evolution."
 
