@@ -1,5 +1,6 @@
+<div align="center">
 
-# Hi there ReLucy 🦄
+# ReLucy 
 
 >18岁的路岔，身后托依着十四亿擘画，广众建广厦
 >
@@ -12,22 +13,24 @@
 >中国青年生长于斯，念兹在兹
 >
 >———写在前面
+</div>
 
-My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
+<br>
 
-🏳️‍🌈 - Country  China中国
+## 关于我
+我是 ReLuckyLucy, 是一个热爱中文诗词的小小程序员，对深度学习，计算机视觉，多模态大模型感兴趣，喜欢精灵宝可梦
 
-📖 - Reading  《El Amor En Los Tiempos Del Colera》
-
-☕ - Learning  Python AIGC
-
+![这是图片](img\bbg.gif )
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=buefyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ReLuckyLucy">
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reluckylucy" />
 </a>
 
-### Language & Tools I often use with
+
+![这是图片](img\test.gif )
+
+### 擅长的语言与工具
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff" />
