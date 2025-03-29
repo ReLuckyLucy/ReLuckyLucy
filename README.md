@@ -15,7 +15,7 @@
 
 My name is ReLuckyLucy, I'm a programmer who is still trying to improve myself.
 
-🏳️‍🌈 - Country  中国
+🏳️‍🌈 - Country  China中国
 
 📖 - Reading  《El Amor En Los Tiempos Del Colera》
 
