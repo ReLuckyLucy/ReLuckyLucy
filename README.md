@@ -20,7 +20,7 @@
 ## 关于我
 我是 ReLuckyLucy, 是一个热爱中文诗词的小小程序员，对深度学习，计算机视觉，多模态大模型感兴趣，喜欢精灵宝可梦
 
-![这是图片](img\bbg.gif )
+![这是图片](./bbg.gif )
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=buefyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ReLuckyLucy">
@@ -28,7 +28,7 @@
 </a>
 
 
-![这是图片](img\test.gif )
+![这是图片](./test.gif )
 
 ### 擅长的语言与工具
 
