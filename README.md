@@ -7,7 +7,12 @@ I’m ReLuckyLucy, a novice programmer passionate about Chinese poetry. I’m en
 
 As a technology explorer with systems thinking and humanistic values, I firmly believe that 'the warmth in code stems from the creator's perspective.' While currently engaged in only a select few initiatives, I persistently strive to maintain ultimate accountability in my projects and cultivate a mindset of continuous evolution."
 
-![ReLuckyLuc's GitHub stats](profile/stats.svg)
+<table>
+  <tr>
+    <td><img src="./profile/stats.svg" alt="Stats" /></td>
+    <td><img src="./profile/top-langs.svg" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ### Technology Stack
 
