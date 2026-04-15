@@ -7,8 +7,7 @@ I’m ReLuckyLucy, a novice programmer passionate about Chinese poetry. I’m en
 
 As a technology explorer with systems thinking and humanistic values, I firmly believe that 'the warmth in code stems from the creator's perspective.' While currently engaged in only a select few initiatives, I persistently strive to maintain ultimate accountability in my projects and cultivate a mindset of continuous evolution."
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=buefyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![ReLuckyLuc's GitHub stats](profile/stats.svg)
 
 ### Technology Stack
 
