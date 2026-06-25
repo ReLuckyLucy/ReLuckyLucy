@@ -54,7 +54,7 @@ As a technology explorer with systems thinking and humanistic values, I firmly b
 
 ## Connect <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
-- WeChat Official: ReLucy
+- Official Wechat Account: ReLucy
 - WeChat: reluckylucy
 - Email: lucy1257716130@outlook.com
 - Email2: 1257716130@qq.com
