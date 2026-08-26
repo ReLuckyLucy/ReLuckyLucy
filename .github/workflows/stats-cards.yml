@@ -1,13 +1,10 @@
 name: Update README cards
 
 on:
+  # 每周一凌晨 0 点（UTC）= 北京时间早上 8 点执行，避免刷屏贡献图
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
 # 关键修正点：为工作流添加写入权限
 permissions:
@@ -17,7 +14,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # 修复1：显式传入 token，确保后续 git push 有认证权限
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -35,10 +36,25 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }} # 如需统计私有仓库，请替换为 PERSONAL_TOKEN
 
-      - name: Commit cards
+      # 修复2：添加验证步骤，防止 SVG 生成失败被静默忽略
+      - name: Verify SVG files
+        run: |
+          ls -la profile/
+          if [ ! -s profile/stats.svg ]; then
+            echo "❌ stats.svg is missing or empty!"
+            exit 1
+          fi
+          if [ ! -s profile/top-langs.svg ]; then
+            echo "❌ top-langs.svg is missing or empty!"
+            exit 1
+          fi
+          echo "✅ Both SVG files generated successfully"
+
+      # 修复3：去掉 || exit 0，让真正的错误暴露出来
+      - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README cards" || echo "No changes to commit"
           git push
