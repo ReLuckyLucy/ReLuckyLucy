@@ -1,11 +1,12 @@
 name: Update README cards
 
 on:
-  # 每周一凌晨 0 点（UTC）= 北京时间早上 8 点执行
+  # 每周一凌晨 0 点（UTC）= 北京时间早上 8 点执行，避免刷屏贡献图
   schedule:
     - cron: "0 0 * * 1"
   workflow_dispatch:
 
+# 关键修正点：为工作流添加写入权限 + API 读取权限（修复"Resource not accessible by integration"）
 permissions:
   contents: write
   packages: read
@@ -14,7 +15,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 升级到 v5 以适配 Node.js 24 运行环境
+      # 修复1：升级到 v5 以消除 Node.js 20 弃用警告
+      # 修复2：显式传入 token，确保后续 git push 有认证权限
+      # 修复3：fetch-depth: 0，完整 git 历史，避免 push 冲突
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
@@ -37,19 +40,21 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 修复4：添加验证步骤，防止 SVG 生成失败被静默忽略
       - name: Verify SVG files
         run: |
           ls -la profile/
           if [ ! -s profile/stats.svg ]; then
-            echo "❌ stats.svg is missing or empty!"
+            echo "ERROR: stats.svg is missing or empty!"
             exit 1
           fi
           if [ ! -s profile/top-langs.svg ]; then
-            echo "❌ top-langs.svg is missing or empty!"
+            echo "ERROR: top-langs.svg is missing or empty!"
             exit 1
           fi
-          echo "✅ Both SVG files generated successfully"
+          echo "Both SVG files generated successfully"
 
+      # 修复5：去掉 || exit 0，让真正的错误暴露出来
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
