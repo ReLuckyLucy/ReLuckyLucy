@@ -1,7 +1,7 @@
 <h1 align="center"><img src = ".\wave.gif" width = 30px> Hi there! I'm ReLucy</h1>
 
 ## About Me
-I’m ReLuckyLucy, a novice programmer passionate about Chinese poetry. I’m enthusiastic about deep learning, computer vision, and multimodal large models, and a fan of Pokémon.
+I’m ReLuckyLucy, a AI Application Engineer about Chinese poetry. I’m Building AI-powered systems with Python, LLMs, Computer Vision and modern web technologies., and a fan of Pokémon.
 
 <img src = ".\bbg.gif">
 
